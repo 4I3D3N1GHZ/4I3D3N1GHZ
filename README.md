@@ -2,7 +2,6 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![CPlusPlus](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
