@@ -1,4 +1,4 @@
-[![4I3D3N1GHZ](https://raw.githubusercontent.com/4I3D3N1GHZ/4I3D3N1GHZ4I3D3N1GHZ/main/logo.png)](https://www.ackerworx.com)
+[![4I3D3N1GHZ](https://raw.githubusercontent.com/4I3D3N1GHZ/4I3D3N1GHZ/main/logo.png)](https://www.ackerworx.com)
 
 
 ### 🛠 &nbsp;Tech Stack
